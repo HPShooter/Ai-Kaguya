@@ -129,3 +129,9 @@ Reset to Mine
 This is the safest option and won't disrupt other's work.
 
 
+#Remember to unzip :
+.cache.zip
+.git.zip
+.upm.zip
+characterconfig.zip
+utils.zip
